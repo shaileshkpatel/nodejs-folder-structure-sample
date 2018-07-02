@@ -3,6 +3,10 @@
 ```
 |-- configuration
 	      |-- config.json
+|-- lib
+	|-- lib-files
+|-- public
+	|-- assets
 |-- controllers
         |-- module-name
             |-- controller.js
