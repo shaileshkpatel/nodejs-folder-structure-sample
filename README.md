@@ -1,4 +1,4 @@
-# node-js-folder-structure-sample
+# node js project structure
 
 ```
 |-- configuration
