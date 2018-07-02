@@ -22,4 +22,8 @@
 |-- package.json
 ```
 
+# License
+
+MIT
+
 
