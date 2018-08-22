@@ -11,8 +11,7 @@ app.server.listen(app.get('port'), function() {
 });
 
 // TODO: Initialize DB connection
-// test
+
 // Initialize all routers
 initRouters(app);
-//Shailesh
-//patel
+
